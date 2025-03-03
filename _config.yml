@@ -2,7 +2,7 @@ title: Students Defending Democracy
 subheads:
     - "Students Defending democracy against fascist attacks on our public schools"
 
-email: info@defenseofdemocracy.org
+email: false
 description: >-
     Students Defending democracy against fascist attacks on our public schools
 baseurl: ""
@@ -10,7 +10,7 @@ url: "https://studentsdefendingdemocracy.org/"
 
 # uncomment and fill in any social IDs you want linked from the top of your page
 
-email: "info@defenseofdemocracy.org"
+#email: "info@defenseofdemocracy.org"
 # telephone_number: "999-999-9999"
 # bluesky_username: "my_bluesky_username"
 # cashapp_username: "my_cashapp_username"

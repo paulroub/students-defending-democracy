@@ -8,3 +8,9 @@
   $linky_button_foreground: {{ site.linky.button_foreground | default: "#f0f0f0" }},
   $linky_social_button_color: {{ site.linky.social_button_color | default: "#fff" }}
 );
+
+.embeds {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
