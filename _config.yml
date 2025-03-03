@@ -43,9 +43,10 @@ exclude:
     - scripts
 
 linky:
-    body_background: "#030303"
+    body_background: "#3e76cd"
     body_foreground: "#F0F0F0"
-    button_background: "#f16293"
+    button_background: "#f79621"
+    button_foreground: "#000"
     social_button_color: "#ffffff"
 
 collections:
