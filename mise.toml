@@ -1,6 +1,0 @@
-[tools]
-node = "22"
-ruby = "3.2.2"
-
-[env]
-_.path = "./bin:./tomd"
