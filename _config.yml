@@ -25,7 +25,7 @@ tiktok_username: "studentsdefdem"
 # youtube_username: "my_youtube_username"
 
 # uncomment for plausible.io analytics, should match the "url" above
-# plausible_io: example.com
+plausible_io: studentsdefendingdemocracy.org
 
 # uncomment to add your google analytics
 # google_analytics: UA-NNNNNNNN-N
